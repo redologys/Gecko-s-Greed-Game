@@ -1,0 +1,5 @@
+{
+  "name": "Gecko's Greed",
+  "description": "A top-down, room-based roguelite game where you control a gecko clearing a tomb of enemies. After each room, choose to cash out your winnings or risk them to proceed to a harder room for a greater reward. If you die, you lose everything.",
+  "requestFramePermissions": []
+}
